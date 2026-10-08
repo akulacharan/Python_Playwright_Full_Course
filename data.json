@@ -1,0 +1,21 @@
+{
+  "university": "Sri Venkateshwara University",
+  "students": [
+    {
+      "id": "S001",
+      "name": "Teja",
+      "courses": [
+        {"code": "CS101", "title": "Data Structures", "credits": 4},
+        {"code": "CS102", "title": "Algorithms", "credits": 3}
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "Priya",
+      "courses": [
+        {"code": "CS103", "title": "Database Systems", "credits": 3},
+        {"code": "CS104", "title": "Operating Systems", "credits": 4}
+      ]
+    }
+  ]
+}

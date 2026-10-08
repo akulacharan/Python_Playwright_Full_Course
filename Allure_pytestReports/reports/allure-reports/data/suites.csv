@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2154","test_url[chromium]","Allure_pytestReports","2026-09-06","passed","2026-09-06","","test_sample","",""
+"","5960","test_bing_search[chromium]","Allure_pytestReports","2026-09-06","failed","2026-09-06","","test_sample","",""
+"","2426","test_Title[chromium]","Allure_pytestReports","2026-09-06","passed","2026-09-06","","test_sample","",""
+"","1684","test_google_search[chromium]","Allure_pytestReports","2026-09-06","passed","2026-09-06","","test_sample","",""
